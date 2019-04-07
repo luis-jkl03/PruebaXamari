@@ -9,6 +9,10 @@
         <Label Text="Mensaje actualizado!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Button Text="Siguiente" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        
     </StackLayout>
 
 </ContentPage>
