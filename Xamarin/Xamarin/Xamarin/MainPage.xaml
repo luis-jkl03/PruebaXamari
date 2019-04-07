@@ -15,6 +15,10 @@
         <Button Text="Ingresar datos" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Button Text="Ingresar datos" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        
         
     </StackLayout>
 
