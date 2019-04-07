@@ -6,7 +6,11 @@
 
     <StackLayout>
         <!-- Place new controls here -->
+<<<<<<< HEAD
         <Label Text="Hola de nuevo!" 
+=======
+        <Label Text="Diferente de Hola" 
+>>>>>>> Desarrollo
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
         <Button Text="Ingresar datos" 
