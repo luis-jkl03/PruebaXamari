@@ -18,6 +18,9 @@
         <Button Text="Ingresar datos" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Label Text="Hola de nuevo!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
         
         
     </StackLayout>
